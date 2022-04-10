@@ -1,7 +1,10 @@
-# pointer-tracking-space-game
+## pointer-tracking-space-game
 Game implementation for pointer tracking with april tags
 
-Python libraries needed:
+
+# Python libraries needed:
+
+libraries support: Python 3.7 and lower
 * numpy
 > pip install numpy
 * cv2
@@ -14,6 +17,10 @@ Python libraries needed:
 > pip install pyautogui
 * pygame
 > pip install pygame
+
+
+# How to use
+
 
 
 
