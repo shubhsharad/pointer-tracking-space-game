@@ -1,0 +1,3 @@
+time:2
+maxAmountOfEnemies:5
+enemySize:150
