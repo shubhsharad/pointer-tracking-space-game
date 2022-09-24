@@ -20,14 +20,14 @@ libraries support: Python 3.7 and lower
 
 
 ## How to use
-1. Download the latest release zip file from github
-2. Unzip the file into a folder
-3. Paper print the checkerboard pdf and the april tag
-4. Run the Space_game.py file
-5. Press y to caliberate for the first time
-6. Let the program run the caliberation while you hold the checkerboard print infront of the camera
-7. Calibertaion is only required one time for a new camera
-8. Enjoy the game by hovering the april tag infront of the camera
+1. Download the latest release zip file from github.
+2. Unzip the file into a folder.
+3. Paper print the checkerboard pdf and the april tag.
+4. Run the Space_game.py file.
+5. Press y to caliberate for the first time.
+6. Let the program run the caliberation while you hold the checkerboard print infront of the camera.
+7. Calibertaion is only required one time for a new camera.
+8. Enjoy the game by hovering the april tag infront of the camera.
 
 
 
